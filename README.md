@@ -60,18 +60,24 @@ Ahora bien, al ser una base de datos donde los datos se ubicaron abiertamente, s
 Ahora, hacemos una reducción de los comentarios para solamente quedarmos con los que tengan la palbra Ayuno, ya que son pertinentes para un posible caso de cancelación de cita.
 <img width="921" alt="image" src="https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/e1173f7f-5049-4973-89dc-2c6d9c7153cf">
 
-Terminada nuestra limpieza de datos 
+Terminada la limpieza, se procede a hacer la conexión del MySQL para empezar con la manipulación de los datos.
+<img width="920" alt="image" src="https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/0b6ff6a0-dd25-4feb-accc-fe050a17b20e">
+
 
 
 #### Manipulación de datos
-HHHHHHHHHHH
+Para este segundo codigo, donde ya tenemos una base organizada, iniciamos con la conexión del portal
+
+
 
 #### Contexto de los datos
 
 Los datos fueron proporcionados por medio de la base de datos de la programación de citas para la utilización del resonador magnético en la Fundación Valle del Lili. Estos datos fueron recopilados desde el año 2015 al año 2020. Dentro del conjunto de datos, la identificación del paciente, sus características y variables que permiten determinar la razón por la modificación de la cita. Además, se maneja una variable objetivo del Tipo de cita, que se clasifica en 'ATENDIDA' y 'CANCELADA', con el fin de determinar si se llevó a cabo la cita programada o no y si se está utilizando el resonandor a una alta eficiencia de trabajo y gastos relacionados. 
 
-#### Caracteristicas necesarias para nuestro DataSet 
-Las caracteristicas tomadas en el DataSet son:
+
+
+#### Caracteristicas originales de nuestro DataSet
+Las caracteristicas tomadas en el DataSet original sin hacer el proceso de limpieza respectivo fueron las siguientes:
 * Fecha: Fecha de asignación de la cita, es una variable en formato de fecha. Por ejemplo: 1/2/2018.
 * Hora: Hora de la asignación de la cita, esta variable se encuentra en formato de 12 horas. Por ejemplo: 5:00:00 PM.
 * Paciente: Identificador interno del paciente en la institución clínica. Es de tipo categórica nominal.
@@ -82,6 +88,15 @@ Las caracteristicas tomadas en el DataSet son:
 * Comentario: Variable categórica donde hay múltiples caracteres correspondientes a comentarios acerca de las características que poseen la cita según el paciente.
 * Tipo de cita: Es la variable objetivo, cuya información me indica si el paciente asistió, canceló o se le asignó una cita (esto solo aplica para pacientes a los que no se les ha atendido la cita programada en su momento).
 
+Terminado el proceso de limpieza, oobtuvimos un DataSet de acuerdo a la necesidad que cumpliría con el objetivo del proyecto, representado por las siguientes variables:
+* Fecha
+* Hora
+* Paciente
+* Edad
+* Nombre aseguradora
+* Fecha de anulacion
+* Ayuno (extraido de la columna de comentarios)
+* Tipo de cita (Target)
 
 
 
