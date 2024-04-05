@@ -1,6 +1,6 @@
 # Proyecto de Gestión: DataSet de programación de citas de resonancia magnetica.
 <p align="center">
-![image](https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/4cb3359f-c686-417c-978e-c119fae89adc)
+  <img src="resonador.jpg" alt="Texto alternativo" width="200"/>
 </p>
 
 ## Integrantes del Equipo:
