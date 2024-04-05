@@ -44,9 +44,23 @@ La flexibilidad y la adaptabilidad son otros beneficios clave del sistema CRUD. 
 
 #### Limpieza de datos
 Desde este apartado, utilizamos la base de datos orginal que se nos otorgó y empezamos a realizar diferentes metodos de procesamiento para dejarla con las variables y patrones necesarios para su posterior manipulación.
-Inicialmente 
 
+Inicialmente se importa la base de datos original.
 <img width="850" alt="image" src="https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/b61c4a19-348a-49e5-bc0c-b9518c2bc76e">
+
+Seguido se hace el proceso de imputación de los datos, en donde se elimina la columna de Motivo_de_modificacion, debido a su alta variabilidad y poca relevancia de acuerdo a los objetivos del proyecto
+<img width="928" alt="image" src="https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/5be87a90-2e9d-4f01-a404-be7226358d96">
+Además es necesario, cambiar el tipo de variable para las fechas, que al ser importado se ubican por defecto en Object y si queremos hacer analisis profundo con ellas, debemos hacer el proceso de transformación.
+<img width="926" alt="image" src="https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/f6a2c9fe-cf74-4d29-91d6-996b4b882309">
+Otra caracteristica importante es el proceso de anonimización del paciente, ya qué si bien sabemos, es una base de datos real, donde contiene información que puede ser sensible para los pacientes, es de buena practica hacer el encriptamiento de sus identidades.
+<img width="924" alt="image" src="https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/15093a54-f105-4248-a39a-f0e375993a75">
+Ahora bien, al ser una base de datos donde los datos se ubicaron abiertamente, se reconoció que existen inmensas filiales de una misma aseguradora, por lo que fue necesario unificarlas en un nombre general de la aseguradora perteneciente y así poder hacer un analisis más detallado y especifico. Repetimos este proceso para todas las que presentaran el mismo caso. Y en el caso de qué se presentaran aseguradoras con menos de 40 personas, se unificaron a una sola denominada "otros"
+<img width="709" alt="image" src="https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/f53fc0da-1d94-4ece-98c8-ceb3b23d5c6a">
+<img width="920" alt="image" src="https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/89c35388-24be-48e1-86c1-cfe4fdaaa1da">
+Ahora, hacemos una reducción de los comentarios para solamente quedarmos con los que tengan la palbra Ayuno, ya que son pertinentes para un posible caso de cancelación de cita.
+<img width="921" alt="image" src="https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/e1173f7f-5049-4973-89dc-2c6d9c7153cf">
+
+Terminada nuestra limpieza de datos 
 
 
 #### Manipulación de datos
