@@ -1,6 +1,6 @@
-# Proyecto de Gestión: DataSet de programación de citas de resonancia magnetica en Fundación Valle del Lili.
+# Proyecto de Gestión: DataSet de programación de citas de resonancia magnetica.
 <p align="center">
-<img src="logo.jpg" alt="Texto alternativo" width="300" height="auto"/>
+![image](https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/4cb3359f-c686-417c-978e-c119fae89adc)
 </p>
 
 ## Integrantes del Equipo:
