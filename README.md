@@ -4,7 +4,7 @@
 </p>
 
 ## Integrantes del Equipo:
-Jesus David Franco & Oscar David Ulloa & Angel David Quintero & José Francisco Escudero.
+Jesus David Franco & Angel David Quintero & José Francisco Escudero.
 
 
 ### PROBLEMATICA Y VALOR AGREGADO
