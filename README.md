@@ -10,8 +10,8 @@ La limpieza e imputación de datos en un dataset de este tipo son fundamentales 
 
 El respositorio contiene dos codigos organizados de manera ordinal, donde se buscará desde una base de datos cualquiera llenada manualmente por usuarios y que contiene cualquier cantidad de errores, hacer su debido procesamiento de limpieza para una optima manipulación y acceso a los datos de manera objetiva a la necesidad que requiera.
 
-- [1. Limpieza de datos](#Limpieza_de_datos)
-- [2. Manipulación de datos](#Manipulación_de_datos)
+- [Limpieza de datos](#Limpieza_de_datos)
+- [Manipulación de datos](#Manipulación_de_datos)
 
 Después de aplicar los dos codigos conjuntos, tendremos un acceso pertinente al **Dataset con una cantidad de 29168 registros organizados en 10 variables** , donde desde el segundo archivo, se podrán hacer las manipulaciones controladas a los datos, por medio del CRUD, cuando se desee. Para entender un poco mejor el contenido de nuestro DataSet, debemos acceder al contexto y sus caracteristicas
 
@@ -37,12 +37,9 @@ Las caracteristicas tomadas en el DataSet son:
 * Tipo de cita
 
 
-#### 1. Limpieza de datos
-Consiste en 
+#### Limpieza de datos
+HHHHHHHHH
 
-#### 2. Manipulación de datos
-
-
-*2. Manipulación de datos*
-
+#### Manipulación de datos
+HHHHHHHHHHH
 
