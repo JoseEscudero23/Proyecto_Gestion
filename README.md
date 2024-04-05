@@ -40,11 +40,23 @@ Las caracteristicas tomadas en el DataSet son:
 * Comentario: Variable categórica donde hay múltiples caracteres correspondientes a comentarios acerca de las características que poseen la cita según el paciente.
 * Tipo de cita: Es la variable objetivo, cuya información me indica si el paciente asistió, canceló o se le asignó una cita (esto solo aplica para pacientes a los que no se les ha atendido la cita programada en su momento).
 
-
-
 #### Limpieza de datos
 HHHHHHHHH
 
 #### Manipulación de datos
 HHHHHHHHHHH
+
+
+## Conclusiones y generador de valor:
+la limpieza de datos y la implementación de un sistema CRUD no solo aseguran la integridad y la calidad de los datos, sino que también mejoran la eficiencia operativa, reducen los riesgos y aumentan la productividad, lo que en última instancia genera valor para la empresa.
+
+##### En cuanto a la limpieza de datos:
+La limpieza de datos es fundamental para garantizar la fiabilidad y la precisión en el análisis de datos. Al asegurar que los datos estén libres de errores, inconsistencias y duplicados, se mejora la confianza en los resultados obtenidos a partir de ellos. Esta fiabilidad es crucial en entornos como el sector médico, donde las decisiones pueden tener impactos significativos en la salud de los pacientes y en la eficiencia operativa de la empresa.
+
+Además de la confiabilidad, la limpieza de datos conlleva una mayor eficiencia en los procesos empresariales. Al eliminar la necesidad de corregir datos incorrectos o tratar con registros duplicados, se agilizan los flujos de trabajo y se reducen los tiempos de procesamiento. Esto libera recursos que pueden ser utilizados en actividades más estratégicas y de mayor valor añadido para la empresa.
+
+##### En cuanto a la manipulación de datos (CRUD):
+La implementación de un sistema CRUD proporciona una forma intuitiva y eficiente de gestionar datos dentro de la empresa. Permite a los usuarios crear, leer, actualizar y eliminar registros de manera sencilla y directa, sin necesidad de conocimientos técnicos especializados. Esta facilidad de acceso y manipulación de datos aumenta la agilidad de la empresa para adaptarse a los cambios en los datos o en los requisitos del negocio.
+
+La flexibilidad y la adaptabilidad son otros beneficios clave del sistema CRUD. Al permitir cambios instantáneos en los datos según sea necesario, el sistema proporciona a la empresa la capacidad de responder rápidamente a nuevas demandas o situaciones emergentes. Esto ayuda a mantener la relevancia y la eficacia de los procesos empresariales en un entorno en constante evolución.
 
