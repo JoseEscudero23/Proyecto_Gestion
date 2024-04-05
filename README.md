@@ -1,6 +1,6 @@
 # Proyecto de Gestión: DataSet de programación de citas de resonancia magnetica en Fundación Valle del Lili.
 
-![Ejemplo de imagen](logo.jpg)
+<img src="logo.jpg" alt="Texto alternativo" width="100" height="auto"/>
 
 ## Integrantes del Equipo:
 Jesus David Franco & Oscar David Ulloa & Angel David Quintero & José Francisco Escudero.
