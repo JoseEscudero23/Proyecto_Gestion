@@ -43,7 +43,11 @@ La flexibilidad y la adaptabilidad son otros beneficios clave del sistema CRUD. 
 
 
 #### Limpieza de datos
-HHHHHHHHH
+Desde este apartado, utilizamos la base de datos orginal que se nos otorgó y empezamos a realizar diferentes metodos de procesamiento para dejarla con las variables y patrones necesarios para su posterior manipulación.
+Inicialmente 
+
+<img width="850" alt="image" src="https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/b61c4a19-348a-49e5-bc0c-b9518c2bc76e">
+
 
 #### Manipulación de datos
 HHHHHHHHHHH
