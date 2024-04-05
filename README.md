@@ -1,5 +1,9 @@
 # Proyecto de Gestión: DataSet de programación de citas de resonancia magnetica en Fundación Valle del Lili.
 
+## Integrantes del Equipo:
+Jesus David Franco & Oscar David Ulloa & Angel David Quintero & José Francisco Escudero.
+
+
 ### PROBLEMATICA Y VALOR AGREGADO
 
 La clasificación de si un paciente asistirá o no a una cita de resonancia magnética en Fundación Valle del Lili es crucial para la gestión eficiente de recursos y la atención médica oportuna. La precisión en esta clasificación puede ayudar a reducir costos y tiempos de espera, así como a mejorar la calidad de atención para los pacientes.
@@ -26,15 +30,16 @@ Los datos fueron proporcionados por medio de la base de datos de la programació
 
 #### Caracteristicas necesarias para nuestro DataSet 
 Las caracteristicas tomadas en el DataSet son:
-* Fecha
-* Hora
-* Paciente
-* Motivo de modificación
-* Nombre aseguradora
-* Fecha de creación
-* Fecha de modificación
-* Comentario
-* Tipo de cita
+* Fecha: Fecha de asignación de la cita, es una variable en formato de fecha. Por ejemplo: 1/2/2018.
+* Hora: Hora de la asignación de la cita, esta variable se encuentra en formato de 12 horas. Por ejemplo: 5:00:00 PM.
+* Paciente: Identificador interno del paciente en la institución clínica. Es de tipo categórica nominal.
+* Motivo de modificación: Variable categórica donde hay múltiples caracteres correspondientes al motivo de modificación de la cita.
+* Nombre aseguradora: Nombres de las aseguradoras o EPS de cada paciente.
+* Fecha de creación: Fecha de creación del sujeto dentro de la base de datos de la institución clínica.
+* Fecha de modificación: Fecha de modificación de las citas en caso de que hayan sido aplazadas. En el caso de que no se haya aplazado la cita, este valor será el mismo que la fecha de asignación de la cita.
+* Comentario: Variable categórica donde hay múltiples caracteres correspondientes a comentarios acerca de las características que poseen la cita según el paciente.
+* Tipo de cita: Es la variable objetivo, cuya información me indica si el paciente asistió, canceló o se le asignó una cita (esto solo aplica para pacientes a los que no se les ha atendido la cita programada en su momento).
+
 
 
 #### Limpieza de datos
