@@ -1,6 +1,6 @@
 # Proyecto de Gestión: DataSet de programación de citas de resonancia magnetica.
 <p align="center">
-  <img src="resonador.jpg" alt="Texto alternativo" width="200"/>
+  <img src="resonador.jpg" alt="Texto alternativo" width="500"/>
 </p>
 
 ## Integrantes del Equipo:
