@@ -25,8 +25,21 @@ Después de aplicar los dos codigos conjuntos, tendremos un acceso pertinente al
 - [Contexto de los datos](#Contexto-de-los-datos)
 - [Caracteristicas necesarias para nuestro DataSet](#Caracteristicas-necesarias-para-nuestro-DataSet)
 
+## Conclusiones y generador de valor:
+la limpieza de datos y la implementación de un sistema CRUD no solo aseguran la integridad y la calidad de los datos, sino que también mejoran la eficiencia operativa, reducen los riesgos y aumentan la productividad, lo que en última instancia genera valor para la empresa.
+
+##### En cuanto a la limpieza de datos:
+La limpieza de datos es fundamental para garantizar la fiabilidad y la precisión en el análisis de datos. Al asegurar que los datos estén libres de errores, inconsistencias y duplicados, se mejora la confianza en los resultados obtenidos a partir de ellos. Esta fiabilidad es crucial en entornos como el sector médico, donde las decisiones pueden tener impactos significativos en la salud de los pacientes y en la eficiencia operativa de la empresa.
+
+Además de la confiabilidad, la limpieza de datos conlleva una mayor eficiencia en los procesos empresariales. Al eliminar la necesidad de corregir datos incorrectos o tratar con registros duplicados, se agilizan los flujos de trabajo y se reducen los tiempos de procesamiento. Esto libera recursos que pueden ser utilizados en actividades más estratégicas y de mayor valor añadido para la empresa.
+
+##### En cuanto a la manipulación de datos (CRUD):
+La implementación de un sistema CRUD proporciona una forma intuitiva y eficiente de gestionar datos dentro de la empresa. Permite a los usuarios crear, leer, actualizar y eliminar registros de manera sencilla y directa, sin necesidad de conocimientos técnicos especializados. Esta facilidad de acceso y manipulación de datos aumenta la agilidad de la empresa para adaptarse a los cambios en los datos o en los requisitos del negocio.
+
+La flexibilidad y la adaptabilidad son otros beneficios clave del sistema CRUD. Al permitir cambios instantáneos en los datos según sea necesario, el sistema proporciona a la empresa la capacidad de responder rápidamente a nuevas demandas o situaciones emergentes. Esto ayuda a mantener la relevancia y la eficacia de los procesos empresariales en un entorno en constante evolución.
 
 
+## -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Contexto de los datos
 
 Los datos fueron proporcionados por medio de la base de datos de la programación de citas para la utilización del resonador magnético en la Fundación Valle del Lili. Estos datos fueron recopilados desde el año 2015 al año 2020. Dentro del conjunto de datos, la identificación del paciente, sus características y variables que permiten determinar la razón por la modificación de la cita. Además, se maneja una variable objetivo del Tipo de cita, que se clasifica en 'ATENDIDA' y 'CANCELADA', con el fin de determinar si se llevó a cabo la cita programada o no y si se está utilizando el resonandor a una alta eficiencia de trabajo y gastos relacionados. 
@@ -50,16 +63,5 @@ HHHHHHHHH
 HHHHHHHHHHH
 
 
-## Conclusiones y generador de valor:
-la limpieza de datos y la implementación de un sistema CRUD no solo aseguran la integridad y la calidad de los datos, sino que también mejoran la eficiencia operativa, reducen los riesgos y aumentan la productividad, lo que en última instancia genera valor para la empresa.
 
-##### En cuanto a la limpieza de datos:
-La limpieza de datos es fundamental para garantizar la fiabilidad y la precisión en el análisis de datos. Al asegurar que los datos estén libres de errores, inconsistencias y duplicados, se mejora la confianza en los resultados obtenidos a partir de ellos. Esta fiabilidad es crucial en entornos como el sector médico, donde las decisiones pueden tener impactos significativos en la salud de los pacientes y en la eficiencia operativa de la empresa.
-
-Además de la confiabilidad, la limpieza de datos conlleva una mayor eficiencia en los procesos empresariales. Al eliminar la necesidad de corregir datos incorrectos o tratar con registros duplicados, se agilizan los flujos de trabajo y se reducen los tiempos de procesamiento. Esto libera recursos que pueden ser utilizados en actividades más estratégicas y de mayor valor añadido para la empresa.
-
-##### En cuanto a la manipulación de datos (CRUD):
-La implementación de un sistema CRUD proporciona una forma intuitiva y eficiente de gestionar datos dentro de la empresa. Permite a los usuarios crear, leer, actualizar y eliminar registros de manera sencilla y directa, sin necesidad de conocimientos técnicos especializados. Esta facilidad de acceso y manipulación de datos aumenta la agilidad de la empresa para adaptarse a los cambios en los datos o en los requisitos del negocio.
-
-La flexibilidad y la adaptabilidad son otros beneficios clave del sistema CRUD. Al permitir cambios instantáneos en los datos según sea necesario, el sistema proporciona a la empresa la capacidad de responder rápidamente a nuevas demandas o situaciones emergentes. Esto ayuda a mantener la relevancia y la eficacia de los procesos empresariales en un entorno en constante evolución.
 
