@@ -66,7 +66,21 @@ Terminada la limpieza, se procede a hacer la conexión del MySQL para empezar co
 
 
 #### Manipulación de datos
-Para este segundo codigo, donde ya tenemos una base organizada, iniciamos con la conexión del portal
+Para este segundo codigo, donde ya tenemos una base organizada, iniciamos con la conexión del portal de Sql con el codigo de limpieza de datos. Seguido se implementan las funciones del CRUD que permitan la edición de la Base de datos otorgada al SQL.
+Empezamos con la función de crear registros.
+<img width="879" alt="image" src="https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/e754eaa3-d026-4b49-b1d1-2a7c60fd4772">
+Seguido de la función de lectura de los registros.
+<img width="882" alt="image" src="https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/36cede20-399c-4364-8587-bd775a9b21f9">
+Continuando con la función de actualización del registro.
+<img width="882" alt="image" src="https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/ebcb4a6b-cd72-4aa6-abcd-38afb36839a3">
+Y finalmente tenemos la función de eliminación del registro.
+<img width="878" alt="image" src="https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/4eab3aba-a21f-434a-8249-8373db97646d">
+Después de aplicar las metricas para el funcionamiento de cada una de las funciones CRUD y hacer ciertas manipulaciones de ejemplos, se hace la descarga de datos.
+<img width="881" alt="image" src="https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/ea719577-88a3-47dc-bc19-b986847871d8">
+Finalmente, se hace el proceso para visualización por medio de graficos de los datos que permite poder hacer un tipo de analisis posterior para decisiones futuras.
+<img width="877" alt="image" src="https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/c495c753-8ab4-4fe8-98d2-705f384b239b">
+<img width="880" alt="image" src="https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/8352df10-c1cc-4a87-bbc8-5de3ceac4b87">
+
 
 
 
