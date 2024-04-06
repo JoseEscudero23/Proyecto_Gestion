@@ -38,6 +38,10 @@ La implementación de un sistema CRUD proporciona una forma intuitiva y eficient
 
 La flexibilidad y la adaptabilidad son otros beneficios clave del sistema CRUD. Al permitir cambios instantáneos en los datos según sea necesario, el sistema proporciona a la empresa la capacidad de responder rápidamente a nuevas demandas o situaciones emergentes. Esto ayuda a mantener la relevancia y la eficacia de los procesos empresariales en un entorno en constante evolución.
 
+###### Interfaz grafica
+
+Ahora bien, como modelo de medida para visualizar los datos de una manera estructurada, es importante la simplificación de funciones. No todas las personas tienen acceso al codigo y el conocimiento para su manipulación. Debemos ser inclusivos en la forma de representar cualquier cambio en la base de datos. Para eso se crea la interfaz grafica, que integra la base de datos importada y la función CRUD.
+![image](https://github.com/JoseEscudero23/Proyecto_Gestion/assets/162381147/f73983aa-8369-4290-a41c-db276d3bc297)
 
 ## ----------------------------------------------------------------------------------------------------------------------------------
 
@@ -86,7 +90,7 @@ Finalmente, se hace el proceso para visualización por medio de graficos de los 
 
 #### Contexto de los datos
 
-Los datos fueron proporcionados por medio de la base de datos de la programación de citas para la utilización del resonador magnético en la Fundación Valle del Lili. Estos datos fueron recopilados desde el año 2015 al año 2020. Dentro del conjunto de datos, la identificación del paciente, sus características y variables que permiten determinar la razón por la modificación de la cita. Además, se maneja una variable objetivo del Tipo de cita, que se clasifica en 'ATENDIDA' y 'CANCELADA', con el fin de determinar si se llevó a cabo la cita programada o no y si se está utilizando el resonandor a una alta eficiencia de trabajo y gastos relacionados. 
+Los datos fueron proporcionados por medio de la base de datos de la programación de citas para la utilización del resonador magnético en la Fundación Valle del Lili. Estos datos fueron recopilados desde el año 2015 al año 2020. Dentro del conjunto de datos, la identificación del paciente, sus características y variables que permiten determinar la razón por la modificación de la cita. Además, se maneja una variable objetivo del Tipo de cita, que se clasifica en 'ATENDIDA' y 'CANCELADA', con el fin de determinar si se llevó a cabo la cita programada o no y si se está utilizando el resonandor a una alta eficiencia de trabajo y gastos relacionados.
 
 
 
