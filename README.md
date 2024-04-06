@@ -102,7 +102,7 @@ Las caracteristicas tomadas en el DataSet original sin hacer el proceso de limpi
 * Comentario: Variable categórica donde hay múltiples caracteres correspondientes a comentarios acerca de las características que poseen la cita según el paciente.
 * Tipo de cita: Es la variable objetivo, cuya información me indica si el paciente asistió, canceló o se le asignó una cita (esto solo aplica para pacientes a los que no se les ha atendido la cita programada en su momento).
 
-Terminado el proceso de limpieza, oobtuvimos un DataSet de acuerdo a la necesidad que cumpliría con el objetivo del proyecto, representado por las siguientes variables:
+Terminado el proceso de limpieza, obtuvimos un DataSet de acuerdo a la necesidad que cumpliría con el objetivo del proyecto, representado por las siguientes variables:
 * Fecha
 * Hora
 * Paciente
